@@ -1,7 +1,3 @@
-Here's a sample GitHub intro for an Android, Flutter, React, Node.js, and MongoDB developer:
-
----
-
 ## 👋 Hello, I'm Diwakar!
 
 I'm a passionate software developer with expertise in **Android**, **Flutter**, **React**, **Node.js**, and **MongoDB**. I love building seamless, high-performing, and scalable applications that solve real-world problems and enhance user experiences.
@@ -30,7 +26,3 @@ I'm a passionate software developer with expertise in **Android**, **Flutter**, 
 ### 💬 Let's Connect!
 
 I'm always open to collaborating on exciting projects or discussing tech trends. Feel free to reach out!
-
----
-
-Feel free to personalize this to fit your style, expertise level, or specific projects you’re working on. This will help you stand out and attract like-minded developers and potential collaborators.
